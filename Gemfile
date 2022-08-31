@@ -17,7 +17,7 @@ gem 'bulma-rails', '~> 0.7.4'
 gem 'bulma-extensions-rails', '~> 1.0.30'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 
-gem 'omniauth', '= 1.9.0'
+gem 'omniauth', '1.9.2'
 gem 'omniauth-facebook', '= 5.0.0'
 gem 'faker', '~> 2.4'
 
